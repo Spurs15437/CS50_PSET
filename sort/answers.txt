@@ -1,0 +1,17 @@
+sort1 uses: Bubble sort.
+
+
+How do you know?: After comparing the sorting time of the three methods under different data amounts, this is the slowest one, and the big O of bubble sort is also the largest among the three methods.
+
+
+sort2 uses: Merge sort.
+
+
+How do you know?: After comparing the sorting time of the three methods under different data amounts, this is the fastest one, and the big O of merge sort is also the least among the three methods.
+
+
+sort3 uses: Selection sort.
+
+
+How do you know?: After comparing the sorting time under different data amounts of the three methods, this is the one in the middle position, which is consistent with the position of the big O of the selection sorting among the three.
+
